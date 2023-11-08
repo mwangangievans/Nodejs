@@ -1,0 +1,11 @@
+{
+  "name": "restapi_youtube",
+  "version": "1.0.0",
+  "description": "A Simple restApi in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evans Mwangangi",
+  "license": "MIT"
+}
